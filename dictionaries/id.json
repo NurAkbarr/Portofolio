@@ -1,0 +1,101 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek"
+  },
+  "hero": {
+    "greeting": "Halo, Saya",
+    "role": "Fullstack Developer",
+    "tagline": "Membangun aplikasi web yang fungsional, interaktif, dan berpusat pada pengalaman pengguna.",
+    "ctaProjects": "Lihat Proyek",
+    "ctaContact": "Hubungi Saya"
+  },
+  "about": {
+    "sectionTitle": "ABOUT ME",
+    "greeting": "SAYA",
+    "name": "NURUL AKBAR",
+    "role": "FULLSTACK DEVELOPER",
+    "bio": "Sebagai lulusan Sistem Informasi dan Software Engineer, saya berfokus mengubah kebutuhan bisnis yang kompleks menjadi aplikasi web yang efisien.\n\nDari digitalisasi alur kerja operasional hingga perancangan arsitektur frontend, saya menikmati proses membangun solusi full-stack dari nol yang terukur dan memberikan dampak nyata.",
+    "downloadCv": "UNDUH CV",
+    "cvFile": "/CV_Nurul_Akbar_ATS-IN.pdf",
+    "cvName": "CV_Nurul_Akbar_ATS-IN.pdf"
+  },
+  "skills": {
+    "title": "Keahlian",
+    "accent": "Teknis"
+  },
+  "experience": {
+    "title": "Pengalaman",
+    "accent": "Kerja",
+    "technologiesLabel": "Teknologi yang Digunakan",
+    "list": [
+      {
+        "company": "Matla Islamic Academy",
+        "role": "IT Support & Web Developer",
+        "period": "Jan 2026 - Sekarang",
+        "location": "Remote",
+        "description": [
+          "Membangun dan mengembangkan website interaktif berbasis Laravel untuk menunjang kebutuhan kampus dan publikasi akademik.",
+          "Mengembangkan sistem pembelajaran terintegrasi (LMS) untuk mendukung kegiatan perkuliahan daring secara efisien.",
+          "Melakukan pemeliharaan rutin, manajemen konten, serta pengawasan performa sistem website kampus.",
+          "Memberikan dukungan teknis (IT Support) secara remote kepada staf dan pengajar terkait sistem dan operasional web."
+        ],
+        "technologies": ["Laravel", "PHP", "Tailwind CSS", "MySQL", "IT Support", "Git"]
+      },
+      {
+        "company": "Lembah Pangaduan",
+        "role": "Web Development",
+        "period": "Mar 2025 - Sep 2025",
+        "location": "Remote",
+        "description": [
+          "Mengembangkan sistem informasi pariwisata berbasis web menggunakan CodeIgniter 4, MySQL, Tailwind CSS, dan JavaScript.",
+          "Membangun fitur booking online dan penyewaan perlengkapan untuk mempermudah transaksi wisatawan.",
+          "Menerapkan fitur promosi digital terintegrasi untuk memperluas jangkauan dan publikasi destinasi.",
+          "Mengembangkan dashboard admin interaktif untuk pengelolaan data serta pelaporan transaksi secara real-time."
+        ],
+        "technologies": ["CodeIgniter 4", "MySQL", "Tailwind CSS", "JavaScript", "Bootstrap", "Git"]
+      },
+      {
+        "company": "PT Saneng Industrial",
+        "role": "Production Operator",
+        "period": "Jul 2024 - Jun 2025",
+        "location": "Cikarang, Bekasi",
+        "description": [
+          "Melakukan proses loading dan inspeksi CheckPart untuk memastikan kesesuaian komponen dengan standar spesifikasi.",
+          "Menjalankan prosedur CheckMan secara teliti dalam rangkaian alur operasional lini produksi.",
+          "Melakukan pengecekan kualitas menyeluruh guna memastikan part bebas dari goresan (scratch) maupun cacat produksi (NG/Not Good).",
+          "Melakukan proses Air Blow untuk pembersihan part serta menjaga kebersihan dan standar area kerja."
+        ],
+        "technologies": ["Quality Control", "Machine Operation", "Production Line", "5S", "SOP"]
+      }
+    ]
+  },
+  "certificates": {
+    "title": "Sertifikat &",
+    "accent": "Penghargaan"
+  },
+  "projects": {
+    "title": "Karya",
+    "accent": "Terbaik",
+    "subtitle": "Kumpulan proyek yang telah saya bangun, mulai dari desain antarmuka hingga sistem backend yang kompleks.",
+    "drawer": {
+      "close": "Tutup",
+      "techStack": "Teknologi yang Digunakan",
+      "viewLive": "Lihat Proyek Asli",
+      "sourceCode": "Kode Sumber"
+    }
+  },
+  "contact": {
+    "title": "Hubungi",
+    "accent": "Saya",
+    "subtitle": "Punya ide proyek, pertanyaan, atau sekadar ingin menyapa? Jangan ragu untuk mengirimkan pesan. Saya selalu terbuka untuk peluang kolaborasi baru.",
+    "name": "Nama Lengkap",
+    "namePlaceholder": "Masukkan nama Anda",
+    "email": "Alamat Email",
+    "emailPlaceholder": "nama@email.com",
+    "message": "Pesan",
+    "messagePlaceholder": "Ceritakan tentang proyek atau ide Anda...",
+    "send": "Kirim Pesan"
+  }
+}

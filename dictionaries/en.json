@@ -1,0 +1,101 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects"
+  },
+  "hero": {
+    "greeting": "Hello, I am",
+    "role": "Fullstack Developer",
+    "tagline": "Building functional, interactive, and user-centric web applications.",
+    "ctaProjects": "View Projects",
+    "ctaContact": "Contact Me"
+  },
+  "about": {
+    "sectionTitle": "ABOUT ME",
+    "greeting": "I AM",
+    "name": "NURUL AKBAR",
+    "role": "FULLSTACK DEVELOPER",
+    "bio": "As an Information Systems graduate and Software Engineer, I specialize in translating complex business needs into efficient web applications.\n\nFrom digitizing operational workflows to architecting frontend interfaces, I thrive on building scalable full-stack solutions from the ground up that deliver real-world impact.",
+    "downloadCv": "DOWNLOAD CV",
+    "cvFile": "/CV_Nurul_Akbar_ATS_EN.pdf",
+    "cvName": "CV_Nurul_Akbar_ATS_EN.pdf"
+  },
+  "skills": {
+    "title": "Tech",
+    "accent": "Skills"
+  },
+  "experience": {
+    "title": "Work",
+    "accent": "Experience",
+    "technologiesLabel": "Technologies Used",
+    "list": [
+      {
+        "company": "Matla Islamic Academy",
+        "role": "IT Support & Web Developer",
+        "period": "Jan 2026 - Present",
+        "location": "Remote",
+        "description": [
+          "Architecting and developing an interactive university web platform using Laravel for academic publications.",
+          "Integrating an LMS (Learning Management System) to empower seamless online learning and course management.",
+          "Conducting scheduled maintenance, web content administration, and overall system optimization.",
+          "Providing remote IT support to academic staff and lecturers regarding software and web platform operations."
+        ],
+        "technologies": ["Laravel", "PHP", "Tailwind CSS", "MySQL", "IT Support", "Git"]
+      },
+      {
+        "company": "Lembah Pangaduan",
+        "role": "Web Development",
+        "period": "Mar 2025 - Sep 2025",
+        "location": "Remote",
+        "description": [
+          "Developed a web-based tourism information system using CodeIgniter 4, MySQL, Tailwind CSS, and JavaScript.",
+          "Engineered online booking and equipment rental features to streamline the visitor reservation process.",
+          "Implemented digital promotion features to enhance destination visibility and outreach.",
+          "Built a centralized admin dashboard for data management and real-time transaction reporting."
+        ],
+        "technologies": ["CodeIgniter 4", "MySQL", "Tailwind CSS", "JavaScript", "Bootstrap", "Git"]
+      },
+      {
+        "company": "PT Saneng Industrial",
+        "role": "Production Operator",
+        "period": "Jul 2024 - Jun 2025",
+        "location": "Cikarang, Bekasi",
+        "description": [
+          "Conducted component loading and CheckPart inspections to ensure parts met strict engineering specifications.",
+          "Executed CheckMan procedures meticulously throughout the manufacturing line workflow.",
+          "Performed thorough quality control to guarantee finished parts were free of scratches or defects (NG - Not Good).",
+          "Operated air blow equipment for part cleaning and maintained workplace 5S cleanliness standards."
+        ],
+        "technologies": ["Quality Control", "Machine Operation", "Production Line", "5S", "SOP"]
+      }
+    ]
+  },
+  "certificates": {
+    "title": "Certificates &",
+    "accent": "Awards"
+  },
+  "projects": {
+    "title": "Featured",
+    "accent": "Works",
+    "subtitle": "A collection of projects I've built, ranging from user interfaces to complex backend systems.",
+    "drawer": {
+      "close": "Close",
+      "techStack": "Technologies Used",
+      "viewLive": "View Live Project",
+      "sourceCode": "Source Code"
+    }
+  },
+  "contact": {
+    "title": "Get In",
+    "accent": "Touch",
+    "subtitle": "Have a project idea, a question, or just want to say hi? Feel free to drop a message. I'm always open to new collaborative opportunities.",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email Address",
+    "emailPlaceholder": "name@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project or idea...",
+    "send": "Send Message"
+  }
+}
